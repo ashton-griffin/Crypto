@@ -6,7 +6,7 @@ const CryptoHome = () => {
   return (
     <div className="dark:bg-gray-800">
       {/* <Search /> */}
-      {/* <Trending /> */}
+      <Trending />
       <Markets />
     </div>
   );
